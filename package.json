@@ -1,0 +1,33 @@
+{
+  "name": "transform-stream-messages",
+  "version": "1.0.0",
+  "description": "Some stream transformers which encode and decode messages.",
+  "main": "index.js",
+  "dependencies": {
+    "virtual-buffer": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boljen/node-transform-stream-messages.git"
+  },
+  "keywords": [
+    "stream",
+    "encoder",
+    "decoder",
+    "fixed-length",
+    "messages",
+    "delimiter",
+    "buffer",
+    "bufferstream"
+  ],
+  "author": "Christophe Bol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boljen/node-transform-stream-messages/issues"
+  },
+  "homepage": "https://github.com/boljen/node-transform-stream-messages"
+}
